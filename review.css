@@ -1,0 +1,23 @@
+.headd{
+    text-align: center;
+    color:#624a6e;
+}
+
+.naam{
+
+    background-color: rgb(12, 215, 198);
+    color: rgb(255,246,207);
+    font-size: 200%;
+    padding:1% 4% ;
+    border-radius: 10px;
+}
+.rev{
+    width: 70%;
+    margin: auto;
+    
+}
+.lec{
+    padding:2% 5% ;
+    font-size: 150%;
+
+}
