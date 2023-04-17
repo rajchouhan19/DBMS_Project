@@ -1,2 +1,1 @@
-# trial
-testing and learning
+DBMS PROJECT
